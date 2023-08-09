@@ -1,0 +1,7 @@
+1.birinchi bulib github dan shu nomdagi repository yaratiladi
+2.git init buyrug'ri bajariladi
+3.git remote add origin https://github.com/ZafarDevoloper/spring-jpa-lesson3.git 
+4.git add .
+5.git commit -m 'java spring boot lesson3'
+6.git push origin master
+shu bilan nihoyasiga yetdi
